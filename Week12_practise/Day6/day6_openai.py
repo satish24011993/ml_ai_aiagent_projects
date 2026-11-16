@@ -1,7 +1,7 @@
 import openai
 
 # Set OpenAI API key
-openai.api_key = "sk-proj-tvu6XINWFJ_C7MbyW7xF1lf9NNTeB8TdHj_-N5mUtwIaATLHY1lE2UoaxB8sC5tuumS8FK7rlkT3BlbkFJVO8aNNmOsrGLQB_Ylb5UTxPvRZD9C2b1hM7hK-6CrJVHwPDeMoXCp9nrdtIRcdIRR2sjIoBPMA"
+openai.api_key = ""
 
 try:
     # Generate text using GPT-3.5 Turbo
