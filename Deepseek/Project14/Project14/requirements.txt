@@ -1,0 +1,5 @@
+pymupdf
+
+# pdf to image
+pytesseract
+pillow

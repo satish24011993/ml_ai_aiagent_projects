@@ -1,0 +1,14 @@
+# autogen
+pyautogen
+
+# langraph
+langraph
+langchain
+openai
+# set OPENAI_API_KEY=""
+
+# crewai
+crewai
+'crewai[tools]'
+# set OPENAI_API_KEY=""
+
