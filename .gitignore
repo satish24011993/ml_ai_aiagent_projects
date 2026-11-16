@@ -15,8 +15,8 @@ node_modules
 venv/
 __pycache__/
 .ipynb_checkpoints/
-mlops
-mlops_project
+mlops/
+mlops_project/
 
 # Model training outputs & checkpoints
 results/
