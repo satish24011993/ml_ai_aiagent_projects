@@ -35,5 +35,5 @@ glove*.txt
 *.parquet
 *.zip
 "@ | Out-File -FilePath .gitignore -Encoding utf8
-dog_vs_cat_classification_cnn/test_set
-dog_vs_cat_classification_cnn/training_set
+dog_vs_cat_classification_cnn/test_set*
+dog_vs_cat_classification_cnn/training_set*
