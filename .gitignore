@@ -35,3 +35,5 @@ glove*.txt
 *.parquet
 *.zip
 "@ | Out-File -FilePath .gitignore -Encoding utf8
+test_set
+training_set
